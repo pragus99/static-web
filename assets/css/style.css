@@ -404,7 +404,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 40px;
   display: block;
   background: none;
   border-radius: 0;
@@ -416,11 +416,12 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
+  font-size: 30px;
   font-family: "Poppins", sans-serif;
   color: #050d18;
 }
 
-.skills .progress .skill .val {
+/* .skills .progress .skill .val {
   float: right;
   font-style: normal;
 }
@@ -435,7 +436,7 @@ section {
   height: 10px;
   transition: .9s;
   background-color: #149ddd;
-}
+} */
 
 /*--------------------------------------------------------------
 # Resume
