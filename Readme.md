@@ -1,6 +1,6 @@
 This my second portfolio website with bootstrap 5.
 
-Website : https://pragus99.github.io/staticweb/
+Website : https://pragus99.github.io/static-web/
 
 
 ## Credit template author
